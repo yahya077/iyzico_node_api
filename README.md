@@ -6,7 +6,7 @@ Node js api development with Iyzico api.
 Add your MongoDb string into .env file
 Example
 
-mongodb://localhost:27017/<your-db-name>
+mongodb://localhost:27017/your-db-name
   
 If you are not using 27017 port then replace with yours.
 
