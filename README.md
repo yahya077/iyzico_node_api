@@ -8,7 +8,7 @@ git clone https://github.com/yahya077/iyzico_node_api.git
 
 npm i
 
-set .env.example file as .env and setup requirements
+set .env.example file as .env and setup the requirements
 
 npm run dev
 
