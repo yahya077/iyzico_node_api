@@ -1,6 +1,19 @@
 # iyzico_node_api
 Node js api development with Iyzico api.
 
+# Api Setup
+
+```
+git clone https://github.com/yahya077/iyzico_node_api.git
+
+npm i
+
+set .env.example file as .env and setup requirements
+
+npm run dev
+
+```
+
 # MongoDb Setup
 
 Add your MongoDb string into .env file
